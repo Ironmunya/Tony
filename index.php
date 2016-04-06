@@ -1,3 +1,6 @@
 <<?php 
-include "main.html";
+if(1){
+	include "main.html";
+}
+
  ?>
